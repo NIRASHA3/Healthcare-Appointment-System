@@ -1,0 +1,79 @@
+/* General Styles */
+.login-container {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    
+}
+
+/* Login Form */
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: auto;
+    align-items: flex-start;
+    padding: 30px;
+    min-width: 340px;
+    border: 1px solid #b9b2b2;
+    border-radius: 12px;
+    color: #52525b;
+    font-size: 14px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 640px) {
+    .login-form {
+        min-width: 384px;
+    }
+}
+
+/* Form Title */
+.form-title {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+/* Form Description */
+.form-description {
+    font-size: 16px;
+    color: #52525b;
+}
+
+/* Input Fields */
+.input-field {
+    width: 100%;
+    text-align: left;
+}
+
+.input-field p {
+    margin-bottom: 4px;
+}
+
+.input-field input {
+    width: 100%;
+    border: 1px solid #d4d4d8;
+    border-radius: 6px;
+    padding: 8px;
+    margin-top: 4px;
+}
+
+/* Submit Button */
+.submit-button {
+    margin-top: 10px;
+    background-color: #1c274c;
+    color: #fff;
+    font-size: 16px;
+    width: 105%;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+}
+
+/* Toggle Link */
+.toggle-link {
+    color: #1c274c;
+    text-decoration: underline;
+    cursor: pointer;
+}

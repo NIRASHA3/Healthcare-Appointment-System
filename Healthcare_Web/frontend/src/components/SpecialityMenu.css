@@ -1,0 +1,85 @@
+/* SpecialityMenu Container */
+.speciality-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    color: #1e293b;
+}
+
+/* Title */
+.speciality-title {
+    font-size: 40px;
+    font-weight: 600;
+    color:black;
+}
+
+/* Description */
+.speciality-description {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    color:#1e293b;
+
+}
+
+@media (min-width: 640px) {
+    .speciality-description {
+        width: 33.33%;
+    }
+}
+
+/* Speciality List */
+.speciality-list {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding-top: 20px;
+    width: 100%;
+    overflow: scroll;
+}
+
+/* Speciality Item */
+.speciality-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 12px;
+    cursor: pointer;
+    flex-shrink: 0;
+    transition: all 0.5s;
+}
+
+.speciality-item:hover {
+    transform: translateY(-10px);
+}
+
+/* Speciality Image */
+.speciality-image {
+    width: 64px;
+    margin-bottom: 8px;
+    background-color: #1c274c;
+    border-radius: 8px;
+}
+
+@media (min-width: 640px) {
+    .speciality-image {
+        width: 96px;
+    }
+}
+
+/* Speciality Name */
+.speciality-name {
+    font-weight: 600;
+    font-size: medium;
+    color:#1c274c;
+    background-color: #eff6ff;
+    border-radius: 8px;
+    padding: 4px 8px;
+    text-decoration:underline;
+
+
+}

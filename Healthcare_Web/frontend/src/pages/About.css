@@ -1,0 +1,117 @@
+/* General Styles */
+.about-container {
+    padding: 10px;
+    
+}
+
+/* About Us Heading */
+.about-heading {
+    text-align: center;
+    font-size: 30px;
+    color: #6b7280;
+    font-weight: 500;
+}
+
+.about-heading span {
+    color: #374151;
+    font-weight: 600;
+}
+
+/* About Content Section */
+.about-content {
+   
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    margin-top: 40px;
+    background-color: #f3e8ff;
+    border-radius: 6px;
+}
+
+@media (min-width: 768px) {
+    .about-content {
+        flex-direction: row;
+    }
+}
+
+.about-image {
+    width: auto;
+    max-width: 500px;
+    border-radius: 6px;
+}
+
+.about-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 24px;
+    font-size: 16px;
+    color:#3b4656;
+    
+    
+}
+
+@media (min-width: 768px) {
+    .about-text {
+        width: 50%;
+
+    }
+}
+
+.about-text b {
+    color: #3f4144;
+}
+
+/* Why Choose Us Section */
+.why-choose-us {
+    font-size: 24px;
+    margin-top: 80px;
+    margin-bottom: 16px;
+}
+
+.why-choose-us span {
+    color: #374151;
+    font-weight: 600;
+}
+
+/* Features Section */
+.features {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+    background-color: #f3e8ff;
+    border-radius: 8px;
+}
+
+@media (min-width: 768px) {
+    .features {
+        flex-direction: row;
+    }
+}
+
+.feature-card {
+    border: 1px solid #9ca3af;
+    padding: 32px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 15px;
+    border-radius: 8px;
+    color: #4b5563;
+    transition: all 0.3s ease;
+}
+
+@media (min-width: 768px) {
+    .feature-card {
+        padding: 64px 80px;
+    }
+}
+
+.feature-card:hover {
+    background-color: #1c274c;
+    color: #fff;
+}
+
+.feature-card b {
+    font-weight: bold;
+}

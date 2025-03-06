@@ -1,0 +1,16 @@
+
+.h{
+  margin-left: 16px; 
+  margin-right: 16px;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 5px;
+  text-align: center;
+}
+
+
+
+

@@ -1,0 +1,134 @@
+/* General Styles */
+.doctors-container {
+    color: #1e293b;
+    text-align: left;
+}
+
+/* Filter Section */
+.filter-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+@media (min-width: 640px) {
+    .filter-section {
+        flex-direction: row;
+        align-items: flex-start;
+    }
+}
+
+/* Filter Buttons Container */
+.filter-buttons {
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+    min-width: 200px; 
+}
+
+/* Filter Buttons */
+.filter-button {
+    width: auto;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 64px;
+    border: 1px solid #1e293b;
+    background-color:#f3e8ff ;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+}
+
+@media (min-width: 640px) {
+    .filter-button {
+        width: auto;
+    }
+}
+
+.filter-button:hover {
+    background-color: #6d6b6f;
+    color: #000;
+}
+
+.filter-button.active {
+    background-color: #8a8590;
+    color: #000;
+}
+
+/* Doctors Grid */
+.doctors-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+    row-gap: 24px;
+    padding-top: 10px;
+}
+
+/* Doctor Card */
+.doctor-card {
+    border: 1px solid #bfdbfe;
+    border-radius: 12px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.doctor-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Doctor Image */
+.doctor-image {
+    background-color: #f3e8ff;
+}
+
+/* Doctor Details */
+.doctor-details {
+    padding: 16px;
+}
+
+/* Availability */
+.availability {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  
+}
+.availability-p {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color:#22c55e ;
+    padding-top: 12px;
+  
+}
+
+.availability-dot {
+    width: 8px;
+    height: 8px;
+    background-color: #22c55e;
+    border-radius: 50%;
+}
+
+/* Doctor Name */
+.doctor-name {
+    width: 100%;
+    font-size:16px;
+    color: #111827;
+    text-align: left;
+
+}
+
+/* Doctor Speciality */
+.doctor-speciality {
+    font-size: 14px;
+    color: #4b5563;
+}

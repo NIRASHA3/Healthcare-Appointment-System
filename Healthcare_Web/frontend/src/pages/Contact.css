@@ -1,0 +1,89 @@
+/* General Styles */
+.contact-container {
+    padding: 10px;
+}
+
+/* Contact Us Heading */
+.contact-heading {
+    text-align: center;
+    font-size: 30px;
+    color: #6b7280;
+    font-weight: 500;
+}
+
+.contact-heading span {
+    color: #374151;
+    font-weight: 600;
+}
+
+/* Contact Content Section */
+.contact-content {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    margin-top: 40px;
+    background-color: #f3e8ff;
+    border-radius: 6px;
+
+}
+
+@media (min-width: 768px) {
+    .contact-content {
+        flex-direction: row;
+    }
+}
+
+.contact-image {
+    width: auto;
+    max-width: 600px;
+    border-radius: 8px;
+}
+
+.contact-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    gap: 2px;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+.contact-details p {
+    color:rgb(79, 77, 77);
+}
+
+.contact-details .office-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #4b5563;
+}
+
+.contact-details .careers-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #4b5563;
+}
+
+.contact-details .join-team {
+    font-size: 16px;
+    font-weight: 700;
+    color: #6b7280;
+}
+
+.contact-details .explore-jobs-button {
+    background-color: #a4a3a4;
+    border: 1px solid #000;
+    border-radius: 8px;
+    padding: 16px 32px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.contact-details .explore-jobs-button:hover {
+    background-color: #1e293b;
+    color: #fff;
+}

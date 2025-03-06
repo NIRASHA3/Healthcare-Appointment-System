@@ -1,0 +1,144 @@
+/* Container */
+.related-doctors-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 160px;
+    margin-bottom: 160px;
+    color: #1f2937;
+}
+
+@media (min-width: 768px) {
+    .related-doctors-container {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+}
+
+/* Heading */
+.related-doctors-heading {
+    font-size: 40px;
+    font-weight: 600;
+    color: black;
+    text-align: left;
+
+}
+
+/* Description */
+.related-doctors-description {
+    font-size: 18px;
+    font-weight: 500;
+    color:#1e293b;
+    text-align: left;
+}
+
+/* Grid Layout */
+.related-doctors-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+    padding-top: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+@media (min-width: 640px) {
+    .related-doctors-grid {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+/* Doctor Card */
+.doctor-card {
+    border: 1px solid #bfdbfe;
+    border-radius: 12px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+
+.doctor-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Doctor Image */
+.doctor-image {
+    width:100%;
+    height:200px;
+    background-color: #f3e8ff;
+    object-fit: cover;
+}
+
+/* Doctor Details */
+.doctor-details {
+    padding: 14px;
+}
+
+/* Availability */
+.availability {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color: #22c55e;
+}
+.availability-p {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color:#22c55e ;
+    padding-top: 12px;
+  
+}
+
+
+.availability-dot {
+    width: 8px;
+    height: 8px;
+    background-color: #22c55e;
+    border-radius: 50%;
+}
+
+/* Doctor Name */
+.doctor-name {
+    display: flex;
+    font-size: 18px;
+    font-weight: 500;
+    color: #111827;
+    margin-top: 2px;
+    text-align: left;
+}
+
+/* Doctor Speciality */
+.doctor-speciality {
+    display: flex;
+    font-size: 14px;
+    font-weight: 500;
+    color: #4b5563;
+}
+
+
+/* More Button */
+.more-button {
+    width: 10%;
+    background-color: #716c76;
+    color: white;
+    padding: 12px 12px;
+    border-radius: 9999px;
+    margin-top: 40px;
+    font-weight: 500;
+    font-size: 18px;
+    cursor: pointer;
+    border: none; 
+    
+}
+.more-button:hover {
+    background-color: #d6c5e9; 
+    color: #3e4043; 
+}

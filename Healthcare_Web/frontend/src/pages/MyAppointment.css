@@ -1,0 +1,125 @@
+/* General Styles */
+.appointments-container {
+    padding: 10px;
+}
+
+/* Appointments Heading */
+.appointments-heading {
+    padding-bottom: 20px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #3f3f46;
+    border-bottom: 2px solid #d4d4d8;
+}
+
+/* Appointment Card */
+.appointment-card {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 16px;
+    padding: 8px 0;
+    border-bottom: 2px solid #d4d4d8;
+}
+
+@media (min-width: 640px) {
+    .appointment-card {
+        display: flex;
+        gap: 24px;
+    }
+}
+
+/* Doctor Image */
+.doctor-image {
+    width: auto;
+    background-color: #f3e8ff;
+    border-radius: 8px;
+}
+
+/* Doctor Details */
+.doctor-details {
+    flex: 1;
+    font-size: 16px;
+    color: #3f3f46;
+}
+
+.doctor-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: #262626;
+}
+
+.doctor-speciality {
+    color: #3f3f46;
+}
+
+.doctor-address-title {
+    font-size: 16px;
+    font-weight: 500;
+    color: #262626;
+    margin-top: -80px;
+    margin-left: 38px;
+}
+
+.doctor-address-line {
+    font-size: 14px;
+    color: #3f3f46;
+    margin-left: 100px;
+}
+
+.appointment-date-time {
+    font-size: 14px;
+    margin-top: 4px;
+    margin-left: 100px;
+}
+
+.appointment-date-time span {
+    font-size: 14px;
+    font-weight: 500;
+    color: #262626;
+    margin-left: 100px;
+}
+
+/* Buttons */
+.appointment-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top:-100px;
+    justify-content: center;
+}
+
+.appointment-button {
+    font-size: 14px;
+    color: #57534e;
+    border: 1px solid #4b5563;
+    text-align: center;
+    padding: 8px 0;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+@media (min-width: 640px) {
+    .appointment-button {
+        min-width: 192px;
+    }
+}
+
+.appointment-button.pay {
+    background-color: transparent;
+}
+
+.appointment-button.pay:hover {
+    background-color: #1e293b;
+    color: #fff;
+}
+
+.appointment-button.cancel {
+    background-color: transparent;
+}
+
+.appointment-button.cancel:hover {
+    background-color: #7f1d1d;
+    color: #fff;
+}

@@ -1,0 +1,500 @@
+{
+  "doctors": [
+    {
+      "_id": 1,
+      "name": "Dr. Anushka Perera",
+      "image": "doc1.jpg",
+      "speciality": "General physician",
+      "degree": "MBBS",
+      "experience": "4 Years",
+      "about": "Dr. Anushka Perera is dedicated to providing comprehensive medical care, focusing on preventive medicine and effective treatment strategies. And also has a strong commitment to delivering comprehensive medical care, evaluate and check colds, flu, hypertension, and asthma.",
+      "fees": 3000,
+      "address": {
+        "line1": "123 Galle Road",
+        "line2": "Colombo 3"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "hours": "9:00 AM - 5:00 PM"
+      },
+      "id": "e8ad"
+    },
+    {
+      "_id": 2,
+      "name": "Dr. Bella Fernando",
+      "image": "doc2.png",
+      "speciality": "Gynecologist",
+      "degree": "MBBS",
+      "experience": "3 Years",
+      "about": "Dr. Nadee Fernando has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.",
+      "fees": 20000,
+      "address": {
+        "line1": "456 Flower Road",
+        "line2": "Ring Road, Colombo"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM - 6:00 PM"
+      },
+      "id": "7424"
+    },
+    {
+      "_id": 3,
+      "name": "Dr. Michael Brown",
+      "image": "doc3.png",
+      "speciality": "Dermatologist",
+      "degree": "MD, Dermatologist",
+      "experience": "6 Years",
+      "about": "Dr. Brown focuses on skin health, offering treatments for a variety of dermatological conditions.",
+      "fees": 5000,
+      "address": {
+        "line1": "789 Marine Drive",
+        "line2": "Colombo 4"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "hours": "8:00 AM - 4:00 PM"
+      },
+      "id": "5d94"
+    },
+    {
+      "_id": 4,
+      "name": "Dr. Chris Miller",
+      "image": "doc4.png",
+      "speciality": "Pediatricians",
+      "degree": "MBBS",
+      "experience": "2 Years",
+      "about": "Dr. Miller is devoted to the health and well-being of children, offering compassionate and thorough pediatric care.",
+      "fees": 4500,
+      "address": {
+        "line1": "9th Avenue, South End",
+        "line2": "89 Bankshall Street, Colombo"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "hours": "9:00 AM - 5:00 PM"
+      },
+      "id": "f576"
+    },
+    {
+      "_id": 5,
+      "name": "Dr. Priya Gariya",
+      "image": "doc5.png",
+      "speciality": "Neurologist",
+      "degree": "MBBS, MD",
+      "experience": "4 Years",
+      "about": "Dr. Priya specializes in neurological disorders, providing comprehensive assessments and treatments.",
+      "fees": 12000,
+      "address": {
+        "line1": "47th CrossMax",
+        "line2": "Circle, Cross Road, Colombo"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM - 6:00 PM"
+      },
+      "id": "9886"
+    },
+    {
+      "_id": 6,
+      "name": "Dr. Andrew William",
+      "image": "doc6.png",
+      "speciality": "Neurologist",
+      "degree": "MBBS",
+      "experience": "4 Years",
+      "about": "Dr. Andrew treats patients suffering from migraines, tension-type headaches, and cluster headaches. He diagnoses chronic neurological disorders, helping patients manage their conditions over time.",
+      "fees": 15000,
+      "address": {
+        "line1": "67th Street, Central",
+        "line2": "Temple Road, Maharagama"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "hours": "9:00 AM - 5:00 PM"
+      },
+      "id": "6b31"
+    },
+    {
+      "_id": 7,
+      "name": "Dr. Malinga Wilson",
+      "image": "doc7.png",
+      "speciality": "Gastroenterologist",
+      "degree": "PHD",
+      "experience": "2 Years",
+      "about": "Dr. Malinga specializes in diagnosing and treating conditions related to the gastrointestinal (GI) tract. This includes the esophagus, stomach, intestines, liver, pancreas, and gallbladder. They handle issues like acid reflux, ulcers, IBS, Crohn’s disease, liver disease, and more. Gastroenterologists also perform endoscopic procedures to view the inside of the GI tract and treat problems through minimally invasive techniques.",
+      "fees": 6500,
+      "address": {
+        "line1": "21th New Yard",
+        "line2": "Pavel Street, Gampaha"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM - 6:00 PM"
+      },
+      "id": "77e7"
+    },
+    {
+      "_id": 8,
+      "name": "Dr. Thushara Peris",
+      "image": "doc8.png",
+      "speciality": "Gynecologist",
+      "degree": "MBBS",
+      "experience": "3 Years",
+      "about": "Dr. Thushara educates patients about reproductive health, family planning, and sexually transmitted infections.",
+      "fees": 7500,
+      "address": {
+        "line1": "112 High Street",
+        "line2": "Club Road, Kadawatha"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "hours": "9:00 AM - 5:00 PM"
+      },
+      "id": "b040"
+    },
+    {
+      "_id": 9,
+      "name": "Dr. Emily Davis",
+      "image": "doc9.png",
+      "speciality": "Dermatologist",
+      "degree": "MBBS",
+      "experience": "1 Years",
+      "about": "Dr. Emily contributes in various procedures including biopsies, mole removals, and treatments for nail conditions.",
+      "fees": 5500,
+      "address": {
+        "line1": "37th Aveno Clamp",
+        "line2": "Colombo 7"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM - 6:00 PM"
+      },
+      "id": "e5f2"
+    },
+    {
+      "_id": 10,
+      "name": "Dr. Daniel Martin",
+      "image": "doc10.png",
+      "speciality": "Pediatricians",
+      "degree": "PHD",
+      "experience": "5 Years",
+      "about": "Dr. Daniel is devoted to the health and well-being of children, offering compassionate and thorough pediatric care.",
+      "fees": 4000,
+      "address": {
+        "line1": "No.388 Dr.Kolwin R",
+        "line2": "De.Silva Road, Colombo 2"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "hours": "9:00 AM - 5:00 PM"
+      },
+      "id": "e7e3"
+    },
+    {
+      "_id": 11,
+      "name": "Dr. Ridmi Dias",
+      "image": "doc11.png",
+      "speciality": "Gastroenterologist",
+      "degree": "MBBS",
+      "experience": "2 Years",
+      "about": "Dr. Ridmi believes in a patient-centered approach, ensuring personalized care for each patient. She emphasizes the importance of early detection and prevention, helping patients maintain and improve their digestive health through a combination of lifestyle changes, medication, and advanced treatment options.",
+      "fees": 3500,
+      "address": {
+        "line1": "57th Cross, Richmond",
+        "line2": "Circle, Ring Road, London"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM - 6:00 PM"
+      },
+      "id": "989e"
+    },
+    {
+      "_id": 12,
+      "name": "Dr. Onel Malik",
+      "image": "doc12.png",
+      "speciality": "Neurologist",
+      "degree": "MD, Neurology",
+      "experience": "4 Years",
+      "about": "Dr. Onel evaluates patients with neurological symptoms, such as headaches, seizures, weakness to diagnose conditions accurately.",
+      "fees": 25000,
+      "address": {
+        "line1": "23 Richmond Road",
+        "line2": "Colombo 3"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "hours": "9:00 AM - 5:00 PM"
+      },
+      "id": "58ed"
+    },
+    {
+      "_id": 13,
+      "name": "Dr. Janu Peris",
+      "image": "doc13.png",
+      "speciality": "General physician",
+      "degree": "MBBS",
+      "experience": "4 Years",
+      "about": "Dr. Janu focuses on building long-term relationships with patients, understanding their medical history, and addressing their overall health needs.",
+      "fees": 2500,
+      "address": {
+        "line1": "246 Queen Street",
+        "line2": "Church Road, Colombo"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM - 6:00 PM"
+      },
+      "id": "edd4"
+    },
+    {
+      "_id": 14,
+      "name": "Dr. Ryan Khan",
+      "image": "doc14.png",
+      "speciality": "Gynecologist",
+      "degree": "MBBS",
+      "experience": "4 Years",
+      "about": "Dr. Riyan provides a wide range of healthcare services, including routine examinations, preventive care, and treatment of various gynecological conditions.",
+      "fees": 18000,
+      "address": {
+        "line1": "166, Thibirigasyaya Road",
+        "line2": "Colombo 5"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "hours": "9:00 AM - 5:00 PM"
+      },
+      "id": "c905"
+    },
+    {
+      "_id": 15,
+      "name": "Dr. Shalini Perera",
+      "image": "doc15.png",
+      "speciality": "Dermatologist",
+      "degree": "MBBS,PHD",
+      "experience": "7 Years",
+      "about": "Dr. Amila evaluates, diagnoses, and treats various skin conditions, including common issues like acne and eczema, as well as more complex diseases such as skin cancers.",
+      "fees": 7000,
+      "address": {
+        "line1": "43rd Street, Downtown",
+        "line2": "Main street,Colombo"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM - 6:00 PM"
+      },
+      "id": "e965"
+    },
+    {
+      "_id": 16,
+      "name": "Dr. Rajesh Fernando",
+      "image": "doc16.jpg",
+      "speciality": "Cardiologist",
+      "degree": "MD, DM Cardiology",
+      "experience": "10 Years",
+      "about": "Dr. Rajesh Fernando is a highly skilled cardiologist with expertise in diagnosing and treating heart-related conditions. He specializes in interventional cardiology and has performed numerous successful angioplasties and pacemaker implantations.",
+      "fees": 5000,
+      "address": {
+        "line1": "456 Kandy Road",
+        "line2": "Kandy"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM - 6:00 PM"
+      },
+      "id": "4df7"
+    },
+    {
+      "_id": 17,
+      "name": "Dr. Priyanka Silva",
+      "image": "doc17.jpg",
+      "speciality": "Dermatologist",
+      "degree": "MD, Dermatology",
+      "experience": "8 Years",
+      "about": "Dr. Priyanka Silva is a renowned dermatologist specializing in skin, hair, and nail disorders. She offers advanced treatments for acne, eczema, psoriasis, and cosmetic dermatology procedures like Botox and fillers.",
+      "fees": 4000,
+      "address": {
+        "line1": "789 Negombo Road",
+        "line2": "Negombo"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "hours": "8:00 AM - 4:00 PM"
+      },
+      "id": "0f57"
+    },
+    {
+      "_id": 18,
+      "name": "Dr. Sanjay Bandara",
+      "image": "doc18.jpg",
+      "speciality": "Orthopedic Surgeon",
+      "degree": "MS, Orthopedics",
+      "experience": "12 Years",
+      "about": "Dr. Sanjay Bandara is an experienced orthopedic surgeon specializing in joint replacements, sports injuries, and fracture management. He is known for his patient-centric approach and minimally invasive surgical techniques.",
+      "fees": 6000,
+      "address": {
+        "line1": "321 Matara Road",
+        "line2": "Matara"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "9:00 AM - 5:00 PM"
+      },
+      "id": "ed8c"
+    },
+    {
+      "_id": 19,
+      "name": "Dr. Tanuri Bawanya",
+      "image": "doc19.jpg",
+      "speciality": "Pediatrician",
+      "degree": "MD, Pediatrics",
+      "experience": "7 Years",
+      "about": "Dr. Tanuri Bawanya is a compassionate pediatrician dedicated to the health and well-being of children. She specializes in neonatal care, vaccinations, and managing childhood illnesses like asthma and allergies.",
+      "fees": 3500,
+      "address": {
+        "line1": "654 Gampaha Road",
+        "line2": "Gampaha"
+      },
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "hours": "8:30 AM - 4:30 PM"
+      },
+      "id": "f012"
+    },
+    {
+      "_id": 20,
+      "name": "Dr. Ishan De Silva",
+      "image": "doc20.jpg",
+      "speciality": "Psychiatrist",
+      "degree": "MD, Psychiatry",
+      "experience": "9 Years",
+      "about": "Dr. Ishan De Silva is a skilled psychiatrist specializing in mental health disorders such as depression, anxiety, and bipolar disorder. He provides psychotherapy and medication management to help patients achieve mental wellness.",
+      "fees": 4500,
+      "address": {
+        "line1": "987 Kurunegala Road",
+        "line2": "Kurunegala"
+      },
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM - 6:00 PM"
+      },
+      "id": "c65b"
+    },
+    {
+      "_id": 21,
+      "name": "Dr. Nirasha",
+      "speciality": "General Physician",
+      "degree": "MBBS",
+      "experience": "4 Years",
+      "fees": "3000",
+      "id": "071f"
+    },
+    {
+      "_id": 22,
+      "name": "Dr. Saman Gamage",
+      "speciality": "General Physician",
+      "degree": "MBBS",
+      "experience": "3 Years",
+      "fees": "4000",
+      "id": "0f09"
+    },
+    {
+      "id": "9b00",
+      "name": "Dr. Chamari Inoka",
+      "speciality": "Psychiatrist",
+      "degree": "MBBS",
+      "experience": "3 Years",
+      "fees": "3000"
+    },
+    {
+      "id": "eeb4",
+      "name": "Dr. Shalani Perera",
+      "speciality": "Dermatologist",
+      "degree": "MBBS",
+      "experience": "4 Years",
+      "fees": "4500"
+    }
+  ]
+}

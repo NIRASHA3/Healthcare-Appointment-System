@@ -1,0 +1,81 @@
+/* Container */
+.footer-container {
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+/* Grid Layout */
+.footer-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-top: 160px;
+    margin-bottom: 40px;
+    font-size: 14px;
+}
+
+@media (min-width: 640px) {
+    .footer-grid {
+        display: grid;
+        grid-template-columns: 3fr 1fr 1fr;
+        gap: 56px;
+    }
+}
+
+/* Logo */
+.footer-logo {
+    margin-bottom: 20px;
+    width: 176px;
+    cursor: pointer;
+    margin-left: -450px;
+    
+}
+
+/* Description Text */
+.footer-description {
+    width: 100%;
+    color: #323a49;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+}
+
+@media (min-width: 768px) {
+    .footer-description {
+        width: 66.666667%;
+    }
+}
+
+/* Section Titles */
+.footer-section-title {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #1f2937;
+    margin-left: 40px;
+}
+
+/* Lists */
+.footer-list {
+    display: flex;
+    flex-direction: column;
+    color: #323a49;
+    list-style: none;
+    font-size: 14px;
+    line-height: 24px;
+    text-align:center;
+}
+
+.footer-hr{
+    border-bottom: 2px solid #1c274c;
+
+}
+
+/* Copyright Section */
+
+.footer-copy-right-text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 14px;
+    text-align: center;
+}
