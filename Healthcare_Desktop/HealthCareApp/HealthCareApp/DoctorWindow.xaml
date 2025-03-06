@@ -1,0 +1,40 @@
+﻿<Window x:Class="HealthCareApp.DoctorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Doctor Details" Height="300" Width="400">
+    <Grid Margin="10" Background="LavenderBlush">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Name" Grid.Row="0" Margin="5" Padding="5" FontSize="14" FontWeight="SemiBold"/>
+        <TextBox x:Name="NameTextBox" Grid.Row="0" Grid.Column="1" Margin="5" Padding="5"/>
+
+        <TextBlock Text="Speciality" Grid.Row="1" Margin="5" Padding="5" FontSize="14" FontWeight="SemiBold"/>
+        <TextBox x:Name="SpecialityTextBox" Grid.Row="1" Grid.Column="1" Margin="5" Padding="5"/>
+
+        <TextBlock Text="Email" Grid.Row="2" Margin="5" Padding="5" FontSize="14" FontWeight="SemiBold"/>
+        <TextBox x:Name="EmailTextBox" Grid.Row="2" Grid.Column="1" Margin="5" Padding="5"/>
+
+        <TextBlock Text="Fee" Grid.Row="3" Margin="5" Padding="5" FontSize="14" FontWeight="SemiBold"/>
+        <TextBox x:Name="FeeTextBox" Grid.Row="3" Grid.Column="1" Margin="5" Padding="5"/>
+
+        <StackPanel Grid.Row="5" Grid.Column="1" 
+                   Orientation="Horizontal"
+                   HorizontalAlignment="Right">
+            <Button Content="Save" Width="100" Height="50" Margin="5" Padding="5" FontSize="16" FontWeight="SemiBold"
+                   Click="Save_Doctor" Background="DarkSlateBlue" Foreground="White"/>
+            <Button Content="Cancel" Width="100" Height="50" Margin="5" Padding="5" FontWeight="SemiBold" 
+                   Click="Cancel" Background="DarkSlateBlue" Foreground="White"/>
+        </StackPanel>
+    </Grid>
+</Window>

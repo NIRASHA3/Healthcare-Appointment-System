@@ -1,0 +1,20 @@
+﻿HealthCareApp
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Nirasha Deshani\Desktop\Healthcare_Desktop\HealthCareApp\HealthCareApp\obj\Debug\net8.0-windows\
+HealthCareApp
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\Nirasha Deshani\Desktop\Healthcare_Desktop\HealthCareApp\HealthCareApp\App.xaml
+6420682398
+
+191792014932
+2172029105201
+AboutWindow.xaml;CreateAccountWindow.xaml;DoctorWindow.xaml;LoginWindow.xaml;MainWindow.xaml;WelcomeWindow.xaml;
+
+False
+

@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\welcomewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\welcomewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\welcomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\welcomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\doctorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\doctorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\doctorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\doctorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\doctordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\doctordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\createaccountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\createaccountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\createaccountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\createaccountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|c:\\users\\nirasha deshani\\desktop\\healthcare_desktop\\healthcareapp\\healthcareapp\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FFD0EF-D188-4AFD-A86F-F01F533AFF7A}|HealthCareApp\\HealthCareApp.csproj|solutionrelative:healthcareapp\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "HealthCareApp\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\LoginWindow.xaml",
+              "RelativeToolTip": "HealthCareApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T11:09:27.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "HealthCareApp\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:09:56.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HealthCareApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\MainWindow.xaml",
+              "RelativeToolTip": "HealthCareApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T10:22:03.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HealthCareApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:22:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\User.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\User.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\User.cs",
+              "RelativeToolTip": "HealthCareApp\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:05:22.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\WelcomeWindow.xaml",
+              "RelativeDocumentMoniker": "HealthCareApp\\WelcomeWindow.xaml",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\WelcomeWindow.xaml",
+              "RelativeToolTip": "HealthCareApp\\WelcomeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T11:06:51.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\WelcomeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\WelcomeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\WelcomeWindow.xaml.cs",
+              "RelativeToolTip": "HealthCareApp\\WelcomeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:07:20.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\DoctorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\DoctorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\DoctorWindow.xaml.cs",
+              "RelativeToolTip": "HealthCareApp\\DoctorWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:26:47.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\DoctorWindow.xaml",
+              "RelativeDocumentMoniker": "HealthCareApp\\DoctorWindow.xaml",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\DoctorWindow.xaml",
+              "RelativeToolTip": "HealthCareApp\\DoctorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T10:26:24.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\DoctorDbContext.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\DoctorDbContext.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\DoctorDbContext.cs",
+              "RelativeToolTip": "HealthCareApp\\DoctorDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:28:09.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\Doctor.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\Doctor.cs",
+              "RelativeToolTip": "HealthCareApp\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:27:21.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateAccountWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\CreateAccountWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\CreateAccountWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\CreateAccountWindow.xaml.cs",
+              "RelativeToolTip": "HealthCareApp\\CreateAccountWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:08:52.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateAccountWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\CreateAccountWindow.xaml",
+              "RelativeDocumentMoniker": "HealthCareApp\\CreateAccountWindow.xaml",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\CreateAccountWindow.xaml",
+              "RelativeToolTip": "HealthCareApp\\CreateAccountWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T11:08:15.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "HealthCareApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:45:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\App.xaml",
+              "RelativeDocumentMoniker": "HealthCareApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\App.xaml",
+              "RelativeToolTip": "HealthCareApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T11:04:39.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AboutWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\AboutWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HealthCareApp\\AboutWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\AboutWindow.xaml.cs",
+              "RelativeToolTip": "HealthCareApp\\AboutWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:11:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\AboutWindow.xaml",
+              "RelativeDocumentMoniker": "HealthCareApp\\AboutWindow.xaml",
+              "ToolTip": "C:\\Users\\Nirasha Deshani\\Desktop\\Healthcare_Desktop\\HealthCareApp\\HealthCareApp\\AboutWindow.xaml",
+              "RelativeToolTip": "HealthCareApp\\AboutWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T14:03:38.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
